@@ -1,0 +1,13 @@
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.exe
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.deps.json
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.runtimeconfig.json
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.runtimeconfig.dev.json
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.dll
+C:\Users\otgax\OneDrive\Desktop\V4\bin\Debug\netcoreapp3.1\V4.pdb
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.AssemblyInfoInputs.cache
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.AssemblyInfo.cs
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.dll
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.pdb
+C:\Users\otgax\OneDrive\Desktop\V4\obj\Debug\netcoreapp3.1\V4.genruntimeconfig.cache
